@@ -32,6 +32,7 @@ COLORS = {
     "red": "#C8553D",
     "gray": "#5F6B73",
     "purple": "#7B68EE",
+    "green": "#2CA02C",
 }
 
 METHOD_LABELS = {
